@@ -2,26 +2,30 @@ h1 {
   color: blue;
 }
 
-div {
+body {
+  margin: 0;
+}
 
+div {
+ float: left;
 }
 
 .header {
-
+ background-color: peachpuff;
 }
 
 .navigation {
-
+ background-color: orange
 }
 
 .main-content {
-
+ background-color: lightblue;
 }
 
 .sidebar {
-
+ background-color: goldenrod;
 }
 
 .footer {
-  
+ background-color: lightgreen;
 }
