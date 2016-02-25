@@ -24,23 +24,16 @@ div {
  background-color: lightblue;
  width: 45%;
  padding: 2.5%;
- }
 
-
-.image-cropper {
-    width: 250px;
-    height: 250px;
-    position: relative;
-    overflow: hidden;
-    border-radius: 50%;w
 }
 
-img {
-    display: inline;
-    margin: 0 auto;
-    height: 100%;
-    width: auto;
-
+.image-cropper {
+  display: block;
+  width: 250px;
+  height: 250px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 100%;
 }
 
 .sidebar {
